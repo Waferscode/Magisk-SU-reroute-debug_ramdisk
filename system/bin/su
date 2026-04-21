@@ -1,0 +1,4 @@
+#!/system/bin/sh
+
+unset LD_LIBRARY_PATH LD_PRELOAD
+exec /debug_ramdisk/su "$@"
