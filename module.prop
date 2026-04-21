@@ -1,0 +1,6 @@
+id=su_reroute_debug_ramdisk
+name=SU Reroute To Debug Ramdisk
+version=1.0
+versionCode=1
+author=Waferscode
+description=Routes common su entrypoints to /debug_ramdisk/su for devices where app execution of the system su path is blocked.
